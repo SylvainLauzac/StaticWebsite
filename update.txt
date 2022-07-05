@@ -1,1 +1,1 @@
-Update 1 to test caching at the proxy.
+Update 2 to test caching at the proxy.
